@@ -7,6 +7,8 @@ This repository contains a Python script that performs edge detection on an imag
 Requirements:-
 Python 3.x
 OpenCV library (cv2)
+
+
 How to use:-
 Install Python 3.x if not already installed.
 Install the required dependencies by running: pip install opencv-python.
