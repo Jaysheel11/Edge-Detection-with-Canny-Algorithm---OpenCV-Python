@@ -5,6 +5,7 @@ Canny Edge Detection: Python script using OpenCV to detect edges in an image. Ad
 This repository contains a Python script that performs edge detection on an image using the Canny algorithm. The script utilizes the OpenCV library to read an image, apply the Canny edge detection algorithm with adjustable threshold values, and display the original image along with the resulting edge image. It provides a simple and customizable way to visualize and analyze the edges in an image.
 
 Requirements:-
+
 Python 3.x
 
 OpenCV library (cv2)
